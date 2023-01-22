@@ -1,5 +1,5 @@
 body{
-    background: #faf8ff;
+    background-image: radial-gradient(circle, white, #007bff);
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
